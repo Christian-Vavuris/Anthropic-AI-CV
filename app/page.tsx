@@ -9,7 +9,6 @@ const SUGGESTED_QUESTIONS = [
   "How does Christian's experience as an entrepreneur help him break into new accounts and target new verticals?",
   "BitGo wasn't looking for Taxbit's solution when Christian brought it to them — how did he open that account with no expressed need and no RFP?",
   "Christian grew Gemini from $120K to $1.3M in a year — how did he do so, and what does that tell Anthropic about how he will grow accounts?",
-  "How does Christian use AI in his own sales process, and what does \"AI-native\" mean for him in practice?",
 ];
 
 type DisplayMessage = { role: "user" | "assistant"; content: string };
