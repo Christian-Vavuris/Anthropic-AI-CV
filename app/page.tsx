@@ -87,10 +87,7 @@ export default function Home() {
         </p>
         <p className="mb-[18px]">
           This AI Cover Letter is built to help the Anthropic team quickly
-          understand why I&apos;m an outstanding fit for the Account
-          Executive role. It&apos;s designed to provide a faster, more
-          complete signal than a cover letter alone — so you can evaluate my
-          candidacy efficiently.
+          understand why I&apos;m an outstanding fit for Account Executive.
         </p>
         <p>
           Here are copies of my{" "}
